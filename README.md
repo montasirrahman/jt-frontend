@@ -156,12 +156,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![Screenshot](screenshots/17%20-%20Delete%20Video%20Modal.jpg)
 
-If you like the UI, I developed it in a seperate repo [VueTube](https://github.com/techreagan/vuetify-youtube-clone-template)
 
-## License
-
-This project is licensed under the MIT License
-
-## Developed by Reagan Ekhameye (Tech Reagan)
-
-Reach me on twitter [@techreagan](https://www.twitter.com/techreagan)
