@@ -4,7 +4,7 @@
 
 ## API
 
-Backend RESTFUL API Repository [API](https://github.com/techreagan/youtube-clone-nodejs-api)
+Backend RESTFUL API Repository [API](https://github.com/montasirrahman/jt-backend)
 
 ## Features
 
